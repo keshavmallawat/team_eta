@@ -16,7 +16,7 @@ const navItems = [
   { name: "Achievements", href: "/achievements" },
   { name: "Team", href: "/team" },
   { name: "Sponsors", href: "/sponsors" },
-  { name: "Crowdfunding", href: "/crowdfunding" },
+  //{ name: "Crowdfunding", href: "/crowdfunding" },
   { name: "Contact", href: "/contact" },
 ];
 
